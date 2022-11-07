@@ -2,7 +2,7 @@
 - 👀 I’m interested in Front-end Development and UX/UI Design.
 - 🌱 I’m currently learning Front-end Development.
 - 💞️ I’m looking to collaborate on basic level projects.
-- 📫 You can reach me by imbox
+- 📫 You can reach me by inbox
 
 <!---
 zuritacruz/zuritacruz is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
